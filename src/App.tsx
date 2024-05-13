@@ -34,6 +34,7 @@ function App() {
       <AppContainer>
         <FlexBoxCol>
           <FlexBoxRow>
+          <p>Hi</p>
             <TonConnectButton />
             <Button>
               {network
