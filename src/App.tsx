@@ -34,7 +34,7 @@ function App() {
       <AppContainer>
         <FlexBoxCol>
           <FlexBoxRow>
-          <p>Hi</p>
+          <p>Hi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, sint!</p>
             <TonConnectButton />
             <Button>
               {network
@@ -43,7 +43,9 @@ function App() {
                   : "testnet"
                 : "N/A"}
             </Button>
+
           </FlexBoxRow>
+          <p>Hi Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum, sint!</p>
           <Counter />
           <TransferTon />
           <Jetton />
